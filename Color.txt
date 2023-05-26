@@ -5,3 +5,4 @@ Blue
 Yellow
 Gold
 silver
+Pink
